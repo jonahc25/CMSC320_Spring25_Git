@@ -11,3 +11,7 @@ Answer: One field data science could be applied to is marketing. Data science ca
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging keeps the complete history of how branches were merged. Rebasing rewrites the commit history for a liner project history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning about data science and how I can potentially use it in my career.
